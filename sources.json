@@ -1,0 +1,61 @@
+{
+  "slug": "perkuna",
+  "name": "Kavinė Perkūna",
+  "city": "Kaunas",
+  "address": "Perkūno al. 3, Kaunas",
+  "phone": "+37069902600",
+  "facebook": "https://www.facebook.com/KavinePerkuna",
+  "instagram": "",
+  "wolt": "",
+  "menu": "",
+  "lunch": "https://www.facebook.com/KavinePerkuna",
+  "reservation": "",
+  "cuisine": "Dienos pietūs ir šventės",
+  "description": "Dienos pietūs Žaliakalnyje, šalia Ąžuolyno.",
+  "story_title": "Pietų pertrauka prie Ąžuolyno.",
+  "story": "Perkūna įsikūrusi Perkūno alėjoje, Lietuvos sporto universiteto kaimynystėje. Kavinė ruošia darbo dienų pietus, savo konditerijos gaminius ir vaišes privačioms šeimos šventėms.",
+  "sources": [
+    "https://miestosodas.lt/kavine-partitura/"
+  ],
+  "photos": [
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/perkuna/assets/photo-01.webp",
+      "source": "https://miestosodas.lt/kavine-partitura/",
+      "url": "https://miestosodas.lt/wp-content/uploads/2026/06/IMG_7520-1024x683.jpg",
+      "alt": "Moderni kavinės Perkūna erdvė"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/perkuna/assets/photo-02.webp",
+      "source": "https://miestosodas.lt/kavine-partitura/",
+      "url": "https://miestosodas.lt/wp-content/uploads/2026/06/1000019751-768x614.jpg",
+      "alt": "Perkūna stalas privačiai šventei"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/perkuna/assets/photo-03.webp",
+      "source": "https://miestosodas.lt/kavine-partitura/",
+      "url": "https://miestosodas.lt/wp-content/uploads/2026/04/Perkuna-2.jpg",
+      "alt": "Šviesi Perkūna kavinės erdvė"
+    }
+  ],
+  "notes": "Only official modern 2026 interiors available; no food photos located. Photos0/1 original dimensions small; selected1 is382x254. Main is1024x683.",
+  "food_visualizations": [
+    {
+      "path": "assets/food-salotos.webp",
+      "source": "User supplied image(20261022-220030).png",
+      "method": "AI edited presentation, isolated dish replated on ceramic; built-in image_gen",
+      "alt": "Salotų pateikimo vizualizacija"
+    },
+    {
+      "path": "assets/food-blyneliai.webp",
+      "source": "User supplied image(20261022-220030).png",
+      "method": "AI edited presentation, isolated dish replated on ceramic; built-in image_gen",
+      "alt": "Auksinių blynelių pateikimo vizualizacija"
+    },
+    {
+      "path": "assets/food-keptas-patiekalas.webp",
+      "source": "User supplied image(20261022-220030).png",
+      "method": "AI edited presentation, isolated dish replated on ceramic; built-in image_gen",
+      "alt": "Kepto patiekalo su daržovėmis pateikimo vizualizacija"
+    }
+  ]
+}
